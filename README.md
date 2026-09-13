@@ -1,3 +1,21 @@
-echo "# My Project" >> README.md
-echo "" >> README.md
-echo "A professional README example." >> README.md
+# My DevOps Project
+
+A REST API for managing student records. Built with Node.js and PostgreSQL.
+
+## Installation
+
+```bash
+git clone https://github.com/USERNAME/REPO.git
+cd REPO
+npm install
+```
+
+## Usage
+
+```bash
+npm start
+```
+
+## License
+
+[MIT](LICENSE)
